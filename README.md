@@ -1,1 +1,1 @@
-T20 World Cup 2024 Result Dashboard
+## T20 World Cup 2024 Result Dashboard
